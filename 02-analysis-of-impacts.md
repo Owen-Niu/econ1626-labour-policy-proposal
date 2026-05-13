@@ -1,0 +1,11 @@
+# 2. Analysis of Impacts
+
+## 2.1 Employment and Task Effects
+
+Acemoglu and Restrepo (2019) put forward a general model that automation replaces labour in old jobs but also creates new jobs requiring labour. The two forces are opposing and thus netless. Eloundou et al. (2023) believe that about 80% of the US workforce has experienced some tasks involving large language models, but this exposure is not automation; therefore, the distance between feasibility and implementation is relatively large. Yale Budget Lab's tracking up to 2025 shows no regular decline in employment for AI-exposed occupations (Gimbel et al. 2025), and Danish data have shown no wage effect from ChatGPT adoption (Humlum and Vestergaard 2025).
+
+But the whole hides differences. Brynjolfsson, Li and Raymond (2023) have shown that AI has raised the labour productivity of a Fortune 500 support company by 14% and affected novice employees the most. Noy and Zhang (2023) found that ChatGPT users were able to complete tasks about 40% faster, and this increase was most pronounced among lower-skilled workers; such an effect has been referred to as "skill compression" and may be beneficial for equity. Downside: Entry-level positions that can be entirely automated face the greatest risk, and Bick, Blandin and Deming (2024) have shown that adoption is concentrated among already advantaged young, university-educated workers.
+
+## 2.2 Wage and Distributional Effects
+
+Acemoglu and Restrepo (2022) have determined that the increase in the proportion of tasks covered by automation since 1980 accounts for more than half of the rise in wage disparity in the United States. Georgieff (2024) at the OECD believes that AI adoption will be favourable for companies with higher-skilled workforces, and thus, the digital gap may expand. Brynjolfsson and others have shown skill compression evidence in occupations; however, inequality among workers in and out of AI-enabled firms is likely still increasing. Productivity in Australia has not risen significantly since 2019, and it has barely grown at all (Productivity Commission 2025). If the concentrated gains of AI are enjoyed by a small number and adjustment costs fall on displaced workers, then the net social benefit will be negative.

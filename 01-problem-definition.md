@@ -1,0 +1,5 @@
+# 1. Problem Definition and Context
+
+Generative AI is no longer about small adjustments to work. Industrial robots have taken over routine manual tasks, and now large language models are undertaking non-routine cognitive work such as drafting contracts, debugging code and analysing financial statements (Acemoglu and Restrepo 2018). This is exactly the type of knowledge-economy jobs Australian education policy has promoted in recent years.
+
+Productivity Commission (2025) identifies the gap: Although AI is being applied more broadly, most companies have not scaled up the pilot projects. Therefore, there is a two-speed economy that promotes the development of leading enterprises and leaves others in the background. Workers with a certain level of education who are not highly educated but cannot adapt to AI-assisted workflows face a particular risk. The Commission thinks that by 2030, around 1.3 million Australians will need to change jobs; however, this will not be widespread unemployment but rather a structural adjustment that affects people of all ages and in all areas of the country and educational backgrounds unevenly.
