@@ -35,49 +35,13 @@ References 10
 
 # Executive Summary
 
-Australia is at a turning point now. Generative AI has moved from the
-lab to the C-suite in the last three years, and most of the country\'s
-workers are not yet ready for it. The Productivity Commission (2025)
-found that although more and more enterprises have been adopting
-artificial intelligence, most remain at the trial stage. Paralegals,
-junior analysts and customer service staff are exposed to the risks of
-job change and have adjustment costs; technologically advanced
-enterprises are not subject to these risks. The Commission believes
-about 1.3 million Australians will be out of work by 2030.
+Generative AI has moved from the lab to the C-suite, yet most Australian workers remain unprepared. The Productivity Commission (2025) finds most firms are still at the trial stage, creating a two-speed economy. By 2030, 1.3 million Australians will need to change jobs — not through mass unemployment, but uneven structural adjustment falling hardest on paralegals, junior analysts, and customer service staff.
 
-The following are the three policy responses. Option 1 extends the
-Sectoral Workforce Solutions Programme to establish employer-funded
-reskilling partnerships with mandatory co-funding. Option 2 is an
-individual learning account system that can be carried by employees,
-modelled after Singapore\'s SkillsFuture programme, and has shown
-measurable wage increases for middle-aged workers (OECD 2023). Option 3
-adds a \'skills guarantee\' that requires large enterprises to try
-redeployment before AI-driven redundancy, as in Denmark\'s flexicurity
-system (Madsen 2002).
+Three policy options are assessed. Option 1 extends the Sectoral Workforce Solutions Programme with employer-funded reskilling partnerships. Option 2 introduces portable individual learning accounts, modelled on Singapore's SkillsFuture (OECD 2023). Option 3 imposes a 'skills guarantee' requiring large firms to attempt redeployment before AI-driven redundancy, following Denmark's flexicurity model (Madsen 2002).
 
-The selection of one of the above choices is exemplary. Aggregate AI
-employment effects have been unexpectedly small; Yale Budget Lab data
-through 2025 find no clear link between AI exposure and unemployment
-(Gimbel et al. 2025), and Danish records show zero wage impacts from
-ChatGPT adoption (Humlum and Vestergaard 2025). However, based on a
-disaggregated analysis, it has been shown that the actual situation is
-more complex; according to Noy and Zhang (2023), although ChatGPT users
-are 40% more efficient at completing tasks and have relatively larger
-gains for lower-skilled workers, new entry-level jobs are facing focused
-substitution pressure. Acemoglu and Restrepo (2022) have also determined
-that, by 1980, job automation had risen to more than half and thus
-exacerbated wage inequality in the United States.
+Aggregate data suggests limited alarm — Yale Budget Lab finds no clear AI-unemployment link (Gimbel et al. 2025) — but disaggregated evidence tells a different story. ChatGPT makes workers 40% more productive with larger gains for lower-skilled staff (Noy and Zhang 2023), yet entry-level roles face concentrated substitution risk (Acemoglu and Restrepo 2022).
 
-I propose that Options 1 and 3 be combined to form an \'Australian AI
-Workforce Compact\'. The expansion of SWSP will provide reskilling
-infrastructure, and a skills guarantee will ensure that companies
-internalize the social costs of displacement rather than shifting them
-onto workers. Purely voucher-based reskilling (Option 2 alone) is not
-ideal due to a lack of employer accountability and runs the risk of
-credential inflation in Australia during the VET FEE-HELP period. The
-compact would cost \$255 million net per year, aim to train 45,000
-workers by Year 2, and seek a 75% employment rate for graduates after
-six months.
+I recommend combining Options 1 and 3 into an 'Australian AI Workforce Compact': SWSP builds the reskilling pipeline, while a skills guarantee forces employers to internalise displacement costs. Option 2 alone risks credential inflation, as seen in Australia's VET FEE-HELP experience. Net cost: $255 million/year. Target: 45,000 workers trained by Year 2, with 75% employment at six months.
 
 # 1. Problem Definition and Context
 
